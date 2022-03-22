@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imdbtopmovies</string>
+    <string name="get_data">getData</string>
+    <string name="open_classic_way">Open Classic Way</string>
+    <string name="open_api_call_different_class">Open API Call Different Class</string>
+    <string name="open_introduction_activity">Open Introduction Activity</string>
+</resources>
